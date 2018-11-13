@@ -1,5 +1,5 @@
 # Preparation
-1. download everything from the current project to path_1<br>
+1. download everything from the current project and extract it to path_1<br>
 Note that all the prerequisites are from tensorflow official [models](https://github.com/tensorflow/models)<br>
 object_detection<-official_model/research/object_detection<br>
 utils&models<-official_model/research/object_detection/utils&models<br>
