@@ -1,11 +1,12 @@
 # Preparation
-1. download everything from the current project and extract it to path_1<br>
+0. create a follder<-path_1<br>
+1. download everything from the current project to path_1<br>
 Note that all the prerequisites are from tensorflow official [models](https://github.com/tensorflow/models)<br>
-object_detection<-official_model/research/object_detection<br>
-utils&models<-official_model/research/object_detection/utils&models<br>
-datasets&deployment&nets<-official_model/research/slim/datasets&deployment&nets<br>
-model<-official_model/research/cvt_text/model<br>
-download link for [ssd_model](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2017_11_17.tar.gz)<br>
+2. copy official_model/research/object_detection to path_1<br>
+3. copy official_model/research/object_detection/utils&models to path_1<br>
+4. copy official_model/research/slim/datasets&deployment&nets to path_1<br>
+5. copy official_model/research/cvt_text/model to path_1<br>
+6. download link for [ssd_model](http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v1_coco_2017_11_17.tar.gz) and extract it to path_1<br>
 2. install necessary py packages<br>
 # Fix data (from current project)
 1. object_Dataset/images contains source images<br>
